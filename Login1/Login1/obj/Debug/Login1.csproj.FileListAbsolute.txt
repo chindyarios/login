@@ -1,0 +1,18 @@
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1.csprojResolveAssemblyReference.cache
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\MainWindow.g.cs
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\App.g.cs
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1_MarkupCompile.cache
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1_MarkupCompile.lref
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Main page.g.cs
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\bin\Debug\Login1.exe.config
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\bin\Debug\Login1.exe
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\bin\Debug\Login1.pdb
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\bin\Debug\Dapper.dll
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\bin\Debug\Dapper.xml
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\MainWindow.baml
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Main page.baml
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1.g.resources
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1.Properties.Resources.resources
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1.csproj.GenerateResource.Cache
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1.exe
+C:\KERJA\Kelas .Net\Github\login\Login1\Login1\obj\Debug\Login1.pdb
